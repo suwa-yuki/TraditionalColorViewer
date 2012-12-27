@@ -1,7 +1,6 @@
 package jp.classmethod.android.sample.fragmentpager;
 
 import java.util.ArrayList;
-import jp.classmethod.android.sample.traditionalcolorviewer.R;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
